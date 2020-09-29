@@ -1,0 +1,7 @@
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\bin\Debug\netcoreapp3.1\Week5Project4.exe
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\obj\Debug\netcoreapp3.1\Week5Project4.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\obj\Debug\netcoreapp3.1\Week5Project4.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\obj\Debug\netcoreapp3.1\Week5Project4.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\obj\Debug\netcoreapp3.1\Week5Project4.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\obj\Debug\netcoreapp3.1\Week5Project4.dll
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project4\obj\Debug\netcoreapp3.1\Week5Project4.pdb

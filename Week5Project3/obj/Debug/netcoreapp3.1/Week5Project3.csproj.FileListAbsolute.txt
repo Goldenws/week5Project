@@ -1,0 +1,12 @@
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\bin\Debug\netcoreapp3.1\Week5Project3.exe
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\bin\Debug\netcoreapp3.1\Week5Project3.deps.json
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\bin\Debug\netcoreapp3.1\Week5Project3.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\bin\Debug\netcoreapp3.1\Week5Project3.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\bin\Debug\netcoreapp3.1\Week5Project3.dll
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\bin\Debug\netcoreapp3.1\Week5Project3.pdb
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\obj\Debug\netcoreapp3.1\Week5Project3.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\obj\Debug\netcoreapp3.1\Week5Project3.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\obj\Debug\netcoreapp3.1\Week5Project3.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\obj\Debug\netcoreapp3.1\Week5Project3.dll
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\obj\Debug\netcoreapp3.1\Week5Project3.pdb
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project3\obj\Debug\netcoreapp3.1\Week5Project3.genruntimeconfig.cache

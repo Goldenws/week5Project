@@ -1,0 +1,12 @@
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\bin\Debug\netcoreapp3.1\Week5Project2.exe
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\bin\Debug\netcoreapp3.1\Week5Project2.deps.json
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\bin\Debug\netcoreapp3.1\Week5Project2.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\bin\Debug\netcoreapp3.1\Week5Project2.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\bin\Debug\netcoreapp3.1\Week5Project2.dll
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\bin\Debug\netcoreapp3.1\Week5Project2.pdb
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\obj\Debug\netcoreapp3.1\Week5Project2.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\obj\Debug\netcoreapp3.1\Week5Project2.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\obj\Debug\netcoreapp3.1\Week5Project2.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\obj\Debug\netcoreapp3.1\Week5Project2.dll
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\obj\Debug\netcoreapp3.1\Week5Project2.pdb
+C:\Users\Roland Strod\source\repos\Week5Project\Week5Project2\obj\Debug\netcoreapp3.1\Week5Project2.genruntimeconfig.cache
